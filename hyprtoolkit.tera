@@ -1,0 +1,16 @@
+---
+whiskers:
+  version: ^2.5.1
+  matrix:
+    - flavor
+    - accent
+  filename: "themes/{{ flavor.identifier }}/{{ accent }}.conf"
+---
+# Catppuccin {{ flavor.name }} ({{ flavor.colors[accent].name }})
+background=0xff{{ crust.hex }}
+base=0xff{{ base.hex }}
+alternate_base=0xff{{ mantle.hex }}
+text=0xff{{ text.hex }}
+bright_text=0xff{{ subtext1.hex }}
+accent=0xff{{ flavor.colors[accent].hex }}
+accent_secondary=0xff{{ lavender.hex }}
