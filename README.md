@@ -8,7 +8,7 @@
 <p align="center">
 	<a href="https://github.com/SchweGELBin/catppuccin-hyprtoolkit/stargazers"><img src="https://img.shields.io/github/stars/SchweGELBin/catppuccin-hyprtoolkit?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
 	<a href="https://github.com/SchweGELBin/catppuccin-hyprtoolkit/issues"><img src="https://img.shields.io/github/issues/SchweGELBin/catppuccin-hyprtoolkit?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/SchweGELBin/catppuccin-hyprtoolkit/contributors"><img src="https://img.shields.io/github/SchweGELBin/contributors/catppuccin-hyprtoolkit?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/SchweGELBin/catppuccin-hyprtoolkit/contributors"><img src="https://img.shields.io/github/contributors/SchweGELBin/catppuccin-hyprtoolkit?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
