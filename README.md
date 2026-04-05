@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> This repository has been archived in favor of [catppuccin/hyprtoolkit](https://github.com/catppuccin/hyprtoolkit).
+> 
+> The reasoning was explained in [this comment](https://github.com/catppuccin/catppuccin/issues/2903#issuecomment-4188171588).
+
+<br/>
+
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
